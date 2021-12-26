@@ -8,5 +8,6 @@ export default Container;
 
 // ---styles---
 const StyledContainer = styled.div`
-  margin-left: 100px;
+  width: 800px;
+  margin: 0 auto;
 `;
